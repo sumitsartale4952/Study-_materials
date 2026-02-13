@@ -1,0 +1,501 @@
+Order_ID,Customer_ID,Product_Name,Category,Quantity,Price_Per_Unit,Order_Date,City,Payment_Method,Discount_Percent
+ORD1000,CUST905,Headphones,Electronics,4,70980,2023-02-23,Delhi,Cash on Delivery,18
+ORD1001,CUST778,Monitor,Accessories,4,46663,2023-03-10,Bangalore,Debit Card,4
+ORD1002,CUST698,Tablet,Accessories,4,20316,2023-05-28,Hyderabad,Net Banking,28
+ORD1003,CUST324,Monitor,Electronics,1,50340,2023-10-20,Pune,Debit Card,4
+ORD1004,CUST166,Monitor,Electronics,3,53353,2023-03-03,Mumbai,UPI,19
+ORD1005,CUST130,Mobile,Accessories,4,25417,2023-01-01,Pune,Credit Card,16
+ORD1006,CUST406,Tablet,Accessories,3,22066,2023-01-22,Pune,Cash on Delivery,20
+ORD1007,CUST878,Tablet,Accessories,3,75952,2023-12-28,Mumbai,Cash on Delivery,9
+ORD1008,CUST986,Tablet,Electronics,1,63323,2023-06-18,Pune,Credit Card,4
+ORD1009,CUST451,Monitor,Accessories,4,21306,2023-06-19,Hyderabad,Credit Card,3
+ORD1010,CUST156,Headphones,Accessories,2,76020,2023-02-27,Hyderabad,UPI,5
+ORD1011,CUST138,Tablet,Accessories,1,2259,2023-09-15,Hyderabad,Debit Card,25
+ORD1012,CUST907,Keyboard,Electronics,2,42449,2023-12-04,Mumbai,Cash on Delivery,3
+ORD1013,CUST736,Monitor,Accessories,3,2982,2023-10-31,Pune,UPI,29
+ORD1014,CUST948,Mobile,Accessories,3,24942,2023-08-02,Mumbai,Debit Card,6
+ORD1015,CUST291,Headphones,Electronics,1,34219,2023-12-11,Hyderabad,UPI,6
+ORD1016,CUST565,Keyboard,Accessories,1,58566,2023-07-11,Pune,Cash on Delivery,17
+ORD1017,CUST546,Keyboard,Accessories,2,2579,2023-05-17,Pune,Credit Card,2
+ORD1018,CUST619,Mobile,Electronics,4,3217,2023-02-26,Chennai,Credit Card,0
+ORD1019,CUST932,Headphones,Accessories,2,60176,2023-09-07,Chennai,Debit Card,23
+ORD1020,CUST767,Monitor,Electronics,1,28452,2023-04-05,Delhi,Net Banking,24
+ORD1021,CUST943,Laptop,Electronics,2,42960,2023-06-27,Bangalore,Debit Card,3
+ORD1022,CUST460,Headphones,Accessories,1,73347,2023-06-13,Chennai,Net Banking,5
+ORD1023,CUST387,Mobile,Accessories,2,18949,2023-12-07,Mumbai,UPI,8
+ORD1024,CUST334,Keyboard,Accessories,1,34036,2023-10-07,Chennai,UPI,21
+ORD1025,CUST978,Monitor,Accessories,1,64577,2023-10-20,Delhi,Cash on Delivery,13
+ORD1026,CUST728,Headphones,Electronics,1,38758,2023-10-19,Pune,Net Banking,27
+ORD1027,CUST310,Laptop,Accessories,4,48802,2023-07-21,Delhi,Cash on Delivery,11
+ORD1028,CUST122,Laptop,Electronics,2,29365,2023-12-29,Pune,Credit Card,27
+ORD1029,CUST425,Tablet,Accessories,2,7145,2023-02-21,Pune,Net Banking,24
+ORD1030,CUST589,Tablet,Accessories,2,38500,2023-12-24,Bangalore,Debit Card,19
+ORD1031,CUST495,Mobile,Accessories,1,27237,2023-08-11,Chennai,Credit Card,23
+ORD1032,CUST790,Headphones,Electronics,2,11985,2023-09-05,Mumbai,Credit Card,24
+ORD1033,CUST967,Headphones,Accessories,2,39065,2023-09-19,Mumbai,Debit Card,3
+ORD1034,CUST839,Keyboard,Accessories,1,26022,2023-01-25,Hyderabad,Credit Card,20
+ORD1035,CUST963,Keyboard,Accessories,3,65655,2023-05-11,Pune,Net Banking,29
+ORD1036,CUST107,Keyboard,Accessories,1,55668,2023-10-22,Mumbai,Cash on Delivery,23
+ORD1037,CUST504,Tablet,Electronics,2,52987,2023-08-30,Bangalore,Credit Card,11
+ORD1038,CUST957,Headphones,Accessories,1,12842,2023-04-26,Pune,Net Banking,9
+ORD1039,CUST270,Headphones,Electronics,3,41306,2023-12-30,Bangalore,UPI,29
+ORD1040,CUST860,Laptop,Electronics,1,49270,2023-05-17,Mumbai,Net Banking,21
+ORD1041,CUST546,Tablet,Electronics,2,79123,2023-04-05,Mumbai,Cash on Delivery,27
+ORD1042,CUST149,Monitor,Electronics,3,76129,2023-10-01,Hyderabad,Net Banking,6
+ORD1043,CUST441,Tablet,Electronics,4,53103,2023-12-06,Mumbai,Debit Card,2
+ORD1044,CUST869,Monitor,Electronics,2,26899,2023-11-28,Pune,Cash on Delivery,22
+ORD1045,CUST666,Laptop,Accessories,3,77034,2023-09-18,Pune,UPI,27
+ORD1046,CUST328,Mobile,Electronics,3,55606,2023-10-16,Pune,Debit Card,13
+ORD1047,CUST487,Headphones,Electronics,4,31178,2023-10-01,Hyderabad,Net Banking,23
+ORD1048,CUST753,Laptop,Electronics,1,76718,2023-05-10,Hyderabad,Cash on Delivery,9
+ORD1049,CUST462,Headphones,Accessories,1,63730,2023-06-28,Mumbai,UPI,15
+ORD1050,CUST566,Keyboard,Accessories,2,74555,2023-05-16,Delhi,Debit Card,15
+ORD1051,CUST207,Mobile,Electronics,4,56873,2023-07-20,Delhi,UPI,21
+ORD1052,CUST445,Mobile,Accessories,1,31980,2023-04-18,Hyderabad,Net Banking,9
+ORD1053,CUST735,Laptop,Electronics,4,69336,2023-11-05,Mumbai,UPI,24
+ORD1054,CUST154,Mobile,Electronics,1,72758,2023-04-13,Delhi,Credit Card,12
+ORD1055,CUST369,Monitor,Accessories,3,40486,2023-01-19,Mumbai,Debit Card,5
+ORD1056,CUST689,Mobile,Electronics,1,24660,2023-02-17,Mumbai,UPI,11
+ORD1057,CUST777,Headphones,Accessories,4,79611,2023-12-31,Mumbai,Net Banking,8
+ORD1058,CUST795,Headphones,Accessories,3,65429,2023-06-20,Chennai,Net Banking,12
+ORD1059,CUST589,Headphones,Electronics,3,74006,2023-12-21,Pune,UPI,3
+ORD1060,CUST557,Headphones,Electronics,3,35411,2023-04-15,Mumbai,Net Banking,23
+ORD1061,CUST752,Monitor,Accessories,4,32321,2023-11-23,Chennai,Cash on Delivery,10
+ORD1062,CUST970,Tablet,Electronics,2,75539,2023-09-28,Hyderabad,Cash on Delivery,19
+ORD1063,CUST971,Keyboard,Electronics,2,61035,2023-08-13,Delhi,Cash on Delivery,17
+ORD1064,CUST752,Laptop,Electronics,2,12675,2023-11-15,Pune,Credit Card,25
+ORD1065,CUST217,Headphones,Accessories,4,55271,2023-03-25,Delhi,UPI,10
+ORD1066,CUST235,Mobile,Accessories,3,66858,2023-11-10,Pune,Credit Card,24
+ORD1067,CUST832,Headphones,Electronics,2,17827,2023-08-14,Delhi,Net Banking,20
+ORD1068,CUST656,Mobile,Accessories,4,47557,2023-07-23,Pune,Credit Card,3
+ORD1069,CUST256,Keyboard,Accessories,2,6650,2023-06-13,Delhi,Net Banking,17
+ORD1070,CUST402,Keyboard,Accessories,1,4925,2023-12-19,Delhi,Net Banking,0
+ORD1071,CUST291,Keyboard,Accessories,2,16532,2023-03-30,Delhi,Debit Card,26
+ORD1072,CUST105,Mobile,Accessories,2,2698,2023-12-22,Delhi,Cash on Delivery,6
+ORD1073,CUST417,Headphones,Electronics,3,61000,2023-09-09,Hyderabad,Net Banking,5
+ORD1074,CUST331,Keyboard,Electronics,4,53894,2023-07-15,Mumbai,Debit Card,14
+ORD1075,CUST943,Monitor,Electronics,3,20579,2023-06-28,Bangalore,Cash on Delivery,17
+ORD1076,CUST297,Mobile,Accessories,3,36720,2023-01-01,Chennai,Net Banking,23
+ORD1077,CUST881,Mobile,Accessories,3,42374,2023-11-18,Bangalore,Net Banking,10
+ORD1078,CUST510,Headphones,Electronics,3,14359,2023-12-19,Bangalore,Credit Card,19
+ORD1079,CUST213,Mobile,Accessories,3,50960,2023-12-26,Pune,Credit Card,23
+ORD1080,CUST896,Mobile,Electronics,2,31919,2023-11-22,Mumbai,Cash on Delivery,14
+ORD1081,CUST238,Keyboard,Electronics,3,9205,2023-04-20,Pune,Net Banking,15
+ORD1082,CUST601,Headphones,Electronics,3,43380,2023-01-02,Mumbai,UPI,6
+ORD1083,CUST931,Keyboard,Accessories,4,23736,2023-04-20,Mumbai,Credit Card,20
+ORD1084,CUST831,Keyboard,Accessories,1,15858,2023-10-30,Delhi,Cash on Delivery,9
+ORD1085,CUST287,Headphones,Electronics,2,77418,2023-06-19,Hyderabad,Net Banking,25
+ORD1086,CUST953,Laptop,Electronics,2,15096,2023-09-04,Delhi,Net Banking,11
+ORD1087,CUST280,Keyboard,Electronics,2,34072,2023-07-08,Hyderabad,UPI,23
+ORD1088,CUST156,Monitor,Electronics,3,79257,2023-11-25,Pune,Cash on Delivery,13
+ORD1089,CUST350,Monitor,Accessories,3,1779,2023-03-13,Hyderabad,Net Banking,24
+ORD1090,CUST874,Mobile,Accessories,3,63697,2023-10-24,Pune,Credit Card,4
+ORD1091,CUST690,Monitor,Electronics,4,63016,2023-04-22,Bangalore,UPI,25
+ORD1092,CUST693,Mobile,Electronics,1,7583,2023-07-07,Bangalore,Cash on Delivery,20
+ORD1093,CUST993,Laptop,Accessories,3,18271,2023-08-29,Hyderabad,UPI,17
+ORD1094,CUST349,Headphones,Accessories,1,30475,2023-03-14,Hyderabad,Credit Card,4
+ORD1095,CUST472,Headphones,Electronics,4,46148,2023-12-04,Pune,Cash on Delivery,2
+ORD1096,CUST918,Headphones,Electronics,2,48785,2023-12-06,Delhi,UPI,22
+ORD1097,CUST600,Monitor,Electronics,3,19563,2023-03-24,Pune,Debit Card,25
+ORD1098,CUST954,Laptop,Accessories,1,68142,2023-12-20,Delhi,Credit Card,4
+ORD1099,CUST693,Monitor,Accessories,1,38099,2023-07-24,Bangalore,Credit Card,23
+ORD1100,CUST235,Monitor,Accessories,3,52420,2023-04-27,Mumbai,Credit Card,16
+ORD1101,CUST810,Laptop,Electronics,2,29029,2023-10-18,Hyderabad,Debit Card,18
+ORD1102,CUST451,Laptop,Electronics,2,36454,2023-02-26,Delhi,Debit Card,18
+ORD1103,CUST202,Laptop,Accessories,2,28356,2023-05-06,Pune,Net Banking,24
+ORD1104,CUST235,Laptop,Accessories,4,3073,2023-02-12,Bangalore,UPI,20
+ORD1105,CUST341,Headphones,Electronics,1,78844,2023-04-20,Delhi,Net Banking,11
+ORD1106,CUST908,Tablet,Accessories,1,35867,2023-12-30,Pune,UPI,24
+ORD1107,CUST737,Tablet,Accessories,1,61274,2023-08-19,Hyderabad,Debit Card,28
+ORD1108,CUST582,Laptop,Electronics,4,24252,2023-05-07,Hyderabad,Debit Card,8
+ORD1109,CUST402,Tablet,Accessories,1,55529,2023-03-20,Chennai,Net Banking,0
+ORD1110,CUST112,Tablet,Electronics,4,18185,2023-04-19,Mumbai,Cash on Delivery,17
+ORD1111,CUST847,Laptop,Electronics,2,52193,2023-03-09,Chennai,Net Banking,20
+ORD1112,CUST629,Tablet,Electronics,3,56461,2023-07-29,Bangalore,UPI,3
+ORD1113,CUST653,Monitor,Electronics,1,77408,2023-10-06,Delhi,Net Banking,9
+ORD1114,CUST913,Mobile,Electronics,1,75032,2023-05-12,Bangalore,Credit Card,24
+ORD1115,CUST183,Mobile,Electronics,2,56633,2023-08-26,Pune,UPI,6
+ORD1116,CUST730,Laptop,Electronics,3,61768,2023-08-02,Hyderabad,UPI,21
+ORD1117,CUST624,Headphones,Accessories,4,38743,2023-03-10,Chennai,Cash on Delivery,22
+ORD1118,CUST796,Laptop,Electronics,3,57884,2023-08-02,Chennai,Debit Card,0
+ORD1119,CUST370,Headphones,Electronics,2,32153,2023-04-23,Chennai,UPI,16
+ORD1120,CUST705,Mobile,Accessories,2,27157,2023-12-28,Bangalore,Debit Card,23
+ORD1121,CUST938,Laptop,Accessories,3,40452,2023-06-09,Hyderabad,Net Banking,28
+ORD1122,CUST906,Keyboard,Accessories,4,22680,2023-02-21,Delhi,Credit Card,28
+ORD1123,CUST696,Monitor,Electronics,4,78911,2023-07-18,Pune,Cash on Delivery,1
+ORD1124,CUST411,Tablet,Accessories,1,2122,2023-03-31,Delhi,Debit Card,27
+ORD1125,CUST339,Headphones,Electronics,4,49256,2023-12-29,Bangalore,UPI,25
+ORD1126,CUST760,Keyboard,Electronics,3,41309,2023-06-08,Pune,Debit Card,10
+ORD1127,CUST805,Tablet,Electronics,2,17225,2023-03-11,Chennai,UPI,8
+ORD1128,CUST118,Tablet,Electronics,1,61896,2023-12-01,Mumbai,Debit Card,6
+ORD1129,CUST175,Laptop,Accessories,1,51726,2023-04-10,Bangalore,UPI,21
+ORD1130,CUST153,Tablet,Accessories,2,29902,2023-10-28,Bangalore,Net Banking,16
+ORD1131,CUST240,Monitor,Electronics,4,4763,2023-07-31,Hyderabad,UPI,16
+ORD1132,CUST485,Keyboard,Electronics,2,47328,2023-08-18,Delhi,UPI,1
+ORD1133,CUST839,Tablet,Electronics,4,48424,2023-12-28,Bangalore,Credit Card,5
+ORD1134,CUST115,Laptop,Accessories,2,74682,2023-05-31,Bangalore,UPI,13
+ORD1135,CUST536,Monitor,Electronics,3,59552,2023-03-24,Chennai,Credit Card,5
+ORD1136,CUST437,Mobile,Electronics,4,12164,2023-11-17,Chennai,Cash on Delivery,1
+ORD1137,CUST591,Keyboard,Accessories,3,36237,2023-09-13,Pune,Credit Card,0
+ORD1138,CUST983,Tablet,Accessories,1,29873,2023-05-30,Mumbai,Net Banking,9
+ORD1139,CUST966,Laptop,Electronics,2,36897,2023-01-21,Hyderabad,Credit Card,20
+ORD1140,CUST501,Mobile,Accessories,1,39209,2023-10-29,Mumbai,Cash on Delivery,4
+ORD1141,CUST649,Mobile,Accessories,1,61620,2023-03-28,Pune,Net Banking,1
+ORD1142,CUST125,Headphones,Electronics,1,19750,2023-03-25,Chennai,Debit Card,21
+ORD1143,CUST623,Monitor,Accessories,1,21672,2023-12-24,Delhi,Debit Card,15
+ORD1144,CUST511,Tablet,Electronics,2,12055,2023-06-02,Chennai,Credit Card,24
+ORD1145,CUST692,Laptop,Accessories,1,79117,2023-09-11,Hyderabad,Credit Card,1
+ORD1146,CUST743,Headphones,Electronics,2,53776,2023-04-09,Chennai,Cash on Delivery,9
+ORD1147,CUST372,Monitor,Electronics,2,57992,2023-08-06,Hyderabad,Cash on Delivery,1
+ORD1148,CUST363,Headphones,Electronics,3,53502,2023-10-23,Hyderabad,UPI,15
+ORD1149,CUST360,Keyboard,Accessories,4,72855,2023-07-06,Hyderabad,Cash on Delivery,15
+ORD1150,CUST679,Monitor,Electronics,4,25262,2023-12-16,Pune,UPI,18
+ORD1151,CUST261,Monitor,Accessories,2,11546,2023-04-21,Hyderabad,Net Banking,28
+ORD1152,CUST250,Tablet,Electronics,3,29269,2023-08-05,Hyderabad,Credit Card,6
+ORD1153,CUST537,Monitor,Electronics,2,53802,2023-01-15,Delhi,Net Banking,21
+ORD1154,CUST897,Headphones,Accessories,2,23650,2023-09-07,Mumbai,Cash on Delivery,11
+ORD1155,CUST452,Monitor,Electronics,2,68747,2023-03-10,Bangalore,Net Banking,23
+ORD1156,CUST807,Tablet,Electronics,3,5353,2023-11-03,Mumbai,Net Banking,14
+ORD1157,CUST737,Tablet,Accessories,4,22292,2023-08-23,Hyderabad,Net Banking,7
+ORD1158,CUST477,Keyboard,Electronics,3,59629,2023-06-08,Delhi,Cash on Delivery,5
+ORD1159,CUST796,Headphones,Electronics,1,74978,2023-05-21,Chennai,Net Banking,27
+ORD1160,CUST651,Mobile,Electronics,3,67798,2023-06-22,Delhi,UPI,26
+ORD1161,CUST296,Mobile,Electronics,3,32487,2023-07-24,Hyderabad,Cash on Delivery,9
+ORD1162,CUST837,Monitor,Accessories,3,16350,2023-11-05,Delhi,Net Banking,2
+ORD1163,CUST804,Keyboard,Accessories,3,12612,2023-02-26,Delhi,Cash on Delivery,18
+ORD1164,CUST946,Laptop,Electronics,4,24558,2023-05-09,Hyderabad,Debit Card,16
+ORD1165,CUST273,Monitor,Accessories,1,45920,2023-10-24,Pune,UPI,6
+ORD1166,CUST853,Keyboard,Electronics,4,39390,2023-10-18,Delhi,Net Banking,20
+ORD1167,CUST298,Headphones,Accessories,4,66517,2023-01-26,Bangalore,Debit Card,19
+ORD1168,CUST983,Headphones,Electronics,3,47804,2023-05-31,Bangalore,Debit Card,25
+ORD1169,CUST407,Headphones,Electronics,2,33421,2023-10-06,Delhi,Cash on Delivery,3
+ORD1170,CUST210,Headphones,Electronics,2,2024,2023-02-25,Pune,Debit Card,13
+ORD1171,CUST247,Headphones,Electronics,4,15548,2023-05-20,Chennai,UPI,19
+ORD1172,CUST399,Keyboard,Electronics,4,35611,2023-07-11,Hyderabad,UPI,21
+ORD1173,CUST427,Keyboard,Electronics,3,38404,2023-07-08,Bangalore,Credit Card,14
+ORD1174,CUST710,Tablet,Accessories,4,55412,2023-06-14,Chennai,UPI,23
+ORD1175,CUST744,Mobile,Electronics,3,34508,2023-10-24,Delhi,Debit Card,7
+ORD1176,CUST745,Headphones,Accessories,2,560,2023-04-14,Chennai,UPI,20
+ORD1177,CUST343,Laptop,Electronics,2,75166,2023-06-04,Mumbai,Cash on Delivery,14
+ORD1178,CUST748,Keyboard,Accessories,1,55837,2023-08-14,Bangalore,Credit Card,21
+ORD1179,CUST706,Laptop,Accessories,2,13850,2023-01-12,Delhi,Debit Card,19
+ORD1180,CUST661,Laptop,Accessories,4,24854,2023-10-22,Hyderabad,Credit Card,27
+ORD1181,CUST321,Laptop,Electronics,2,45686,2023-05-15,Pune,Debit Card,13
+ORD1182,CUST216,Tablet,Electronics,3,28645,2023-09-13,Delhi,Cash on Delivery,26
+ORD1183,CUST284,Keyboard,Accessories,2,34520,2023-11-11,Hyderabad,Credit Card,28
+ORD1184,CUST254,Laptop,Electronics,1,75686,2023-11-02,Pune,Net Banking,8
+ORD1185,CUST844,Headphones,Accessories,2,21081,2023-03-05,Pune,Debit Card,7
+ORD1186,CUST124,Monitor,Electronics,3,23551,2023-10-13,Delhi,Net Banking,25
+ORD1187,CUST386,Laptop,Accessories,3,51974,2023-01-24,Chennai,Credit Card,27
+ORD1188,CUST212,Tablet,Accessories,4,70126,2023-06-10,Chennai,Net Banking,25
+ORD1189,CUST431,Keyboard,Electronics,2,7460,2023-03-06,Pune,Net Banking,16
+ORD1190,CUST625,Tablet,Accessories,3,36272,2023-12-26,Chennai,Credit Card,1
+ORD1191,CUST953,Laptop,Electronics,1,22020,2023-09-07,Mumbai,Cash on Delivery,24
+ORD1192,CUST155,Keyboard,Accessories,4,49981,2023-03-12,Pune,Net Banking,23
+ORD1193,CUST134,Monitor,Accessories,1,36908,2023-08-27,Pune,Net Banking,29
+ORD1194,CUST916,Laptop,Electronics,2,57634,2023-07-23,Hyderabad,Cash on Delivery,2
+ORD1195,CUST350,Tablet,Electronics,2,20991,2023-07-16,Chennai,Net Banking,7
+ORD1196,CUST179,Mobile,Electronics,2,1841,2023-10-29,Pune,Net Banking,11
+ORD1197,CUST449,Headphones,Accessories,4,45123,2023-05-03,Mumbai,Net Banking,0
+ORD1198,CUST534,Tablet,Electronics,3,838,2023-08-30,Hyderabad,UPI,9
+ORD1199,CUST220,Keyboard,Accessories,4,71931,2023-12-13,Delhi,Cash on Delivery,19
+ORD1200,CUST768,Laptop,Accessories,1,12754,2023-10-01,Pune,Net Banking,2
+ORD1201,CUST143,Headphones,Electronics,4,52360,2023-03-26,Mumbai,Cash on Delivery,5
+ORD1202,CUST770,Laptop,Electronics,1,11844,2023-02-15,Bangalore,Debit Card,6
+ORD1203,CUST900,Keyboard,Accessories,4,2250,2023-10-05,Mumbai,Debit Card,19
+ORD1204,CUST534,Laptop,Accessories,3,55256,2023-06-22,Mumbai,Net Banking,22
+ORD1205,CUST208,Mobile,Electronics,1,68457,2023-09-16,Hyderabad,Cash on Delivery,24
+ORD1206,CUST506,Headphones,Electronics,2,58553,2023-02-01,Delhi,Cash on Delivery,26
+ORD1207,CUST570,Headphones,Electronics,2,71355,2023-10-29,Bangalore,Cash on Delivery,17
+ORD1208,CUST439,Keyboard,Electronics,4,16396,2023-10-29,Chennai,UPI,10
+ORD1209,CUST540,Mobile,Electronics,2,56261,2023-04-13,Chennai,Debit Card,18
+ORD1210,CUST215,Tablet,Accessories,1,63052,2023-10-13,Mumbai,Cash on Delivery,4
+ORD1211,CUST763,Laptop,Accessories,2,77954,2023-10-25,Hyderabad,Cash on Delivery,18
+ORD1212,CUST461,Monitor,Accessories,3,28435,2023-10-13,Hyderabad,UPI,10
+ORD1213,CUST133,Laptop,Accessories,3,38141,2023-11-14,Chennai,UPI,23
+ORD1214,CUST765,Laptop,Electronics,4,30211,2023-10-01,Bangalore,Cash on Delivery,11
+ORD1215,CUST233,Tablet,Electronics,1,70842,2023-10-13,Delhi,Credit Card,9
+ORD1216,CUST103,Laptop,Electronics,3,12682,2023-02-25,Bangalore,Cash on Delivery,7
+ORD1217,CUST341,Mobile,Accessories,3,56776,2023-07-25,Pune,Cash on Delivery,23
+ORD1218,CUST833,Mobile,Accessories,1,20041,2023-05-18,Pune,UPI,27
+ORD1219,CUST767,Headphones,Electronics,2,45313,2023-11-22,Delhi,UPI,27
+ORD1220,CUST388,Keyboard,Electronics,2,37698,2023-12-30,Chennai,Cash on Delivery,8
+ORD1221,CUST990,Monitor,Accessories,4,9320,2023-01-07,Delhi,Cash on Delivery,3
+ORD1222,CUST756,Laptop,Accessories,2,24570,2023-05-22,Hyderabad,Cash on Delivery,4
+ORD1223,CUST148,Laptop,Electronics,1,70268,2023-04-28,Pune,UPI,20
+ORD1224,CUST476,Tablet,Electronics,3,11622,2023-11-28,Mumbai,Cash on Delivery,7
+ORD1225,CUST654,Keyboard,Accessories,2,74043,2023-07-17,Mumbai,Cash on Delivery,22
+ORD1226,CUST658,Mobile,Electronics,4,42286,2023-04-14,Chennai,Net Banking,8
+ORD1227,CUST415,Monitor,Electronics,2,7237,2023-11-19,Hyderabad,Credit Card,14
+ORD1228,CUST964,Headphones,Electronics,1,36562,2023-02-05,Bangalore,Debit Card,14
+ORD1229,CUST509,Mobile,Accessories,4,54737,2023-10-18,Hyderabad,Credit Card,15
+ORD1230,CUST871,Keyboard,Accessories,2,52071,2023-03-21,Mumbai,Net Banking,13
+ORD1231,CUST425,Headphones,Accessories,4,26010,2023-08-16,Mumbai,Debit Card,7
+ORD1232,CUST312,Tablet,Accessories,1,19926,2023-02-17,Pune,Cash on Delivery,17
+ORD1233,CUST613,Tablet,Accessories,3,37765,2023-07-23,Hyderabad,Net Banking,9
+ORD1234,CUST384,Laptop,Accessories,1,18350,2023-10-25,Hyderabad,Cash on Delivery,27
+ORD1235,CUST507,Keyboard,Accessories,1,66650,2023-02-07,Mumbai,UPI,19
+ORD1236,CUST737,Monitor,Electronics,1,75410,2023-02-23,Bangalore,Net Banking,5
+ORD1237,CUST201,Headphones,Electronics,1,52875,2023-07-28,Chennai,UPI,11
+ORD1238,CUST212,Mobile,Electronics,3,35935,2023-08-31,Chennai,Net Banking,1
+ORD1239,CUST916,Keyboard,Electronics,3,57632,2023-06-18,Hyderabad,Net Banking,6
+ORD1240,CUST981,Keyboard,Electronics,4,79445,2023-02-13,Chennai,UPI,15
+ORD1241,CUST294,Tablet,Electronics,2,3483,2023-01-18,Mumbai,Debit Card,2
+ORD1242,CUST227,Laptop,Electronics,3,21162,2023-10-17,Mumbai,Credit Card,12
+ORD1243,CUST161,Laptop,Accessories,3,24010,2023-11-25,Hyderabad,Cash on Delivery,2
+ORD1244,CUST351,Headphones,Accessories,2,78687,2023-02-12,Hyderabad,Net Banking,26
+ORD1245,CUST737,Tablet,Electronics,3,41498,2023-09-29,Pune,Cash on Delivery,17
+ORD1246,CUST897,Keyboard,Electronics,1,57346,2023-01-04,Hyderabad,UPI,10
+ORD1247,CUST362,Monitor,Accessories,1,7140,2023-08-19,Bangalore,Cash on Delivery,7
+ORD1248,CUST339,Tablet,Electronics,2,45047,2023-01-09,Chennai,UPI,5
+ORD1249,CUST654,Headphones,Electronics,4,55120,2023-08-21,Hyderabad,Cash on Delivery,0
+ORD1250,CUST419,Headphones,Accessories,4,15817,2023-06-15,Delhi,Credit Card,27
+ORD1251,CUST705,Tablet,Electronics,2,8064,2023-01-31,Pune,Credit Card,0
+ORD1252,CUST173,Headphones,Accessories,2,27845,2023-06-12,Delhi,Credit Card,22
+ORD1253,CUST271,Tablet,Electronics,1,79773,2023-12-03,Mumbai,Credit Card,7
+ORD1254,CUST794,Mobile,Accessories,4,75359,2023-11-17,Chennai,Credit Card,4
+ORD1255,CUST604,Tablet,Accessories,3,74538,2023-12-29,Hyderabad,Credit Card,27
+ORD1256,CUST485,Tablet,Accessories,1,52893,2023-02-27,Delhi,UPI,15
+ORD1257,CUST882,Headphones,Electronics,2,66581,2023-07-05,Chennai,Net Banking,10
+ORD1258,CUST613,Headphones,Accessories,4,29930,2023-07-22,Mumbai,Cash on Delivery,4
+ORD1259,CUST307,Laptop,Electronics,3,76032,2023-12-10,Bangalore,Credit Card,3
+ORD1260,CUST193,Laptop,Electronics,3,28288,2023-04-25,Pune,UPI,29
+ORD1261,CUST807,Mobile,Electronics,1,49043,2023-08-25,Chennai,UPI,5
+ORD1262,CUST280,Laptop,Electronics,4,14419,2023-10-09,Chennai,UPI,13
+ORD1263,CUST528,Tablet,Accessories,4,69846,2023-02-22,Bangalore,Net Banking,21
+ORD1264,CUST228,Headphones,Accessories,2,40474,2023-01-25,Chennai,Cash on Delivery,18
+ORD1265,CUST739,Laptop,Electronics,4,16871,2023-05-01,Mumbai,Net Banking,8
+ORD1266,CUST564,Laptop,Electronics,4,45584,2023-06-09,Mumbai,Debit Card,11
+ORD1267,CUST388,Mobile,Accessories,1,30129,2023-05-29,Bangalore,UPI,10
+ORD1268,CUST127,Keyboard,Electronics,4,51684,2023-11-25,Pune,Debit Card,13
+ORD1269,CUST545,Mobile,Accessories,3,62416,2023-09-22,Hyderabad,Credit Card,22
+ORD1270,CUST707,Tablet,Electronics,1,74472,2023-01-26,Delhi,Credit Card,15
+ORD1271,CUST217,Headphones,Electronics,1,62687,2023-06-02,Hyderabad,Net Banking,0
+ORD1272,CUST159,Mobile,Accessories,2,13484,2023-07-10,Chennai,Cash on Delivery,12
+ORD1273,CUST553,Laptop,Electronics,4,33539,2023-11-25,Delhi,Debit Card,22
+ORD1274,CUST141,Headphones,Accessories,2,59106,2023-06-10,Bangalore,Cash on Delivery,20
+ORD1275,CUST780,Headphones,Electronics,3,11116,2023-09-19,Bangalore,Net Banking,20
+ORD1276,CUST615,Laptop,Electronics,1,50572,2023-07-07,Pune,Credit Card,29
+ORD1277,CUST520,Mobile,Electronics,1,25074,2023-07-03,Delhi,Cash on Delivery,12
+ORD1278,CUST660,Laptop,Accessories,1,3930,2023-04-02,Mumbai,Cash on Delivery,1
+ORD1279,CUST470,Keyboard,Electronics,3,13176,2023-05-22,Delhi,Credit Card,3
+ORD1280,CUST680,Headphones,Electronics,3,11316,2023-03-31,Chennai,Debit Card,27
+ORD1281,CUST870,Monitor,Electronics,2,33233,2023-09-29,Mumbai,Credit Card,5
+ORD1282,CUST289,Monitor,Electronics,2,2550,2023-11-06,Bangalore,Cash on Delivery,25
+ORD1283,CUST798,Tablet,Accessories,2,34433,2023-01-11,Delhi,Debit Card,26
+ORD1284,CUST879,Laptop,Accessories,4,25451,2023-09-14,Hyderabad,Debit Card,22
+ORD1285,CUST917,Laptop,Electronics,1,32913,2023-10-15,Pune,Credit Card,26
+ORD1286,CUST636,Tablet,Accessories,1,35301,2023-05-27,Hyderabad,Cash on Delivery,4
+ORD1287,CUST102,Tablet,Electronics,2,56119,2023-04-05,Pune,Net Banking,24
+ORD1288,CUST368,Tablet,Electronics,1,33413,2023-03-27,Chennai,Cash on Delivery,2
+ORD1289,CUST846,Headphones,Electronics,2,41100,2023-01-13,Hyderabad,UPI,0
+ORD1290,CUST825,Keyboard,Accessories,4,58275,2023-03-17,Delhi,Net Banking,3
+ORD1291,CUST830,Laptop,Accessories,4,35900,2023-02-16,Delhi,Debit Card,24
+ORD1292,CUST439,Headphones,Accessories,3,4994,2023-12-12,Hyderabad,Net Banking,19
+ORD1293,CUST968,Tablet,Accessories,4,75191,2023-01-27,Delhi,Debit Card,1
+ORD1294,CUST822,Laptop,Accessories,2,43501,2023-03-25,Chennai,Debit Card,25
+ORD1295,CUST380,Headphones,Accessories,4,67864,2023-06-07,Mumbai,Net Banking,29
+ORD1296,CUST910,Keyboard,Accessories,3,45528,2023-03-30,Chennai,Debit Card,29
+ORD1297,CUST230,Headphones,Accessories,1,38073,2023-02-27,Pune,Debit Card,4
+ORD1298,CUST442,Keyboard,Accessories,2,1306,2023-08-08,Chennai,UPI,2
+ORD1299,CUST569,Tablet,Electronics,1,57138,2023-05-13,Pune,Cash on Delivery,28
+ORD1300,CUST793,Keyboard,Accessories,3,30257,2023-12-10,Delhi,Cash on Delivery,27
+ORD1301,CUST174,Laptop,Accessories,3,35136,2023-07-22,Mumbai,UPI,28
+ORD1302,CUST586,Tablet,Accessories,3,48780,2023-12-11,Delhi,Net Banking,8
+ORD1303,CUST606,Laptop,Accessories,1,24762,2023-11-04,Bangalore,Credit Card,19
+ORD1304,CUST202,Monitor,Accessories,1,62711,2023-09-26,Delhi,Credit Card,5
+ORD1305,CUST669,Mobile,Accessories,1,55342,2023-02-10,Pune,Credit Card,17
+ORD1306,CUST434,Keyboard,Accessories,1,57479,2023-06-18,Delhi,UPI,5
+ORD1307,CUST480,Mobile,Accessories,3,38697,2023-12-26,Delhi,UPI,18
+ORD1308,CUST985,Mobile,Accessories,3,42344,2023-05-19,Mumbai,Debit Card,27
+ORD1309,CUST911,Keyboard,Accessories,2,65254,2023-11-19,Delhi,Credit Card,11
+ORD1310,CUST436,Tablet,Accessories,2,34657,2023-07-25,Mumbai,Net Banking,24
+ORD1311,CUST611,Monitor,Electronics,1,77629,2023-04-19,Hyderabad,Net Banking,10
+ORD1312,CUST308,Laptop,Electronics,4,40542,2023-10-02,Bangalore,Credit Card,1
+ORD1313,CUST478,Headphones,Accessories,4,62165,2023-05-07,Mumbai,Credit Card,14
+ORD1314,CUST855,Laptop,Accessories,3,27876,2023-05-13,Pune,Credit Card,11
+ORD1315,CUST297,Headphones,Electronics,3,56054,2023-03-08,Hyderabad,UPI,11
+ORD1316,CUST647,Laptop,Accessories,3,14699,2023-07-18,Mumbai,UPI,8
+ORD1317,CUST593,Keyboard,Electronics,2,51448,2023-06-01,Mumbai,UPI,20
+ORD1318,CUST357,Monitor,Electronics,2,74281,2023-11-28,Bangalore,Cash on Delivery,23
+ORD1319,CUST577,Headphones,Electronics,3,73250,2023-07-26,Pune,Net Banking,1
+ORD1320,CUST145,Tablet,Electronics,3,66762,2023-04-21,Chennai,Net Banking,21
+ORD1321,CUST801,Laptop,Electronics,3,47100,2023-08-31,Chennai,Debit Card,2
+ORD1322,CUST372,Laptop,Accessories,4,77398,2023-09-13,Mumbai,UPI,11
+ORD1323,CUST211,Headphones,Electronics,2,62983,2023-11-26,Delhi,Cash on Delivery,27
+ORD1324,CUST182,Tablet,Accessories,4,18797,2023-01-20,Pune,Cash on Delivery,29
+ORD1325,CUST633,Tablet,Accessories,4,30948,2023-12-05,Hyderabad,Net Banking,25
+ORD1326,CUST853,Keyboard,Electronics,3,26672,2023-05-03,Delhi,UPI,15
+ORD1327,CUST916,Keyboard,Electronics,3,43374,2023-11-04,Delhi,Debit Card,20
+ORD1328,CUST465,Keyboard,Accessories,1,8157,2023-09-17,Pune,UPI,27
+ORD1329,CUST352,Keyboard,Electronics,1,25925,2023-09-18,Mumbai,Credit Card,23
+ORD1330,CUST289,Keyboard,Electronics,4,27185,2023-12-06,Mumbai,UPI,25
+ORD1331,CUST258,Keyboard,Accessories,2,25078,2023-11-18,Mumbai,Credit Card,29
+ORD1332,CUST208,Monitor,Accessories,3,29331,2023-01-27,Mumbai,Credit Card,0
+ORD1333,CUST673,Tablet,Electronics,3,8406,2023-07-08,Chennai,Debit Card,20
+ORD1334,CUST968,Keyboard,Accessories,4,61913,2023-07-15,Mumbai,Net Banking,2
+ORD1335,CUST537,Tablet,Electronics,1,54528,2023-01-25,Chennai,UPI,19
+ORD1336,CUST283,Tablet,Electronics,2,7787,2023-06-10,Chennai,Credit Card,1
+ORD1337,CUST193,Mobile,Electronics,1,34160,2023-10-15,Mumbai,UPI,8
+ORD1338,CUST414,Monitor,Accessories,1,76258,2023-06-25,Bangalore,Net Banking,18
+ORD1339,CUST119,Keyboard,Accessories,1,61004,2023-12-15,Hyderabad,Net Banking,14
+ORD1340,CUST579,Laptop,Accessories,1,60220,2023-04-02,Delhi,Cash on Delivery,17
+ORD1341,CUST190,Headphones,Accessories,3,35201,2023-12-08,Chennai,Net Banking,25
+ORD1342,CUST809,Laptop,Accessories,3,18174,2023-10-14,Pune,Debit Card,10
+ORD1343,CUST967,Monitor,Electronics,1,24374,2023-01-09,Pune,Credit Card,24
+ORD1344,CUST799,Headphones,Electronics,2,44142,2023-04-07,Hyderabad,Cash on Delivery,22
+ORD1345,CUST751,Monitor,Electronics,4,65660,2023-06-11,Pune,Debit Card,15
+ORD1346,CUST450,Tablet,Electronics,2,18102,2023-07-26,Bangalore,UPI,21
+ORD1347,CUST280,Headphones,Accessories,2,26431,2023-02-16,Pune,Credit Card,16
+ORD1348,CUST386,Tablet,Electronics,2,29692,2023-04-25,Delhi,Net Banking,4
+ORD1349,CUST761,Laptop,Accessories,1,47042,2023-01-12,Delhi,Credit Card,11
+ORD1350,CUST648,Laptop,Electronics,3,43020,2023-08-24,Chennai,UPI,10
+ORD1351,CUST824,Headphones,Accessories,2,65272,2023-12-23,Mumbai,Cash on Delivery,29
+ORD1352,CUST251,Headphones,Accessories,1,59262,2023-11-13,Bangalore,Cash on Delivery,14
+ORD1353,CUST577,Keyboard,Electronics,2,50606,2023-09-02,Chennai,Cash on Delivery,26
+ORD1354,CUST743,Monitor,Electronics,2,26059,2023-05-14,Bangalore,Net Banking,2
+ORD1355,CUST464,Keyboard,Electronics,1,34242,2023-07-21,Mumbai,Debit Card,0
+ORD1356,CUST514,Monitor,Electronics,3,70169,2023-04-03,Pune,Debit Card,19
+ORD1357,CUST680,Keyboard,Accessories,3,22254,2023-12-14,Pune,Credit Card,28
+ORD1358,CUST102,Tablet,Electronics,4,4472,2023-06-02,Mumbai,Net Banking,15
+ORD1359,CUST866,Headphones,Electronics,1,71331,2023-06-24,Chennai,Cash on Delivery,1
+ORD1360,CUST699,Laptop,Accessories,4,42373,2023-07-03,Mumbai,Cash on Delivery,1
+ORD1361,CUST100,Monitor,Electronics,4,10403,2023-03-18,Hyderabad,UPI,2
+ORD1362,CUST804,Monitor,Electronics,4,3520,2023-09-17,Delhi,UPI,7
+ORD1363,CUST383,Laptop,Electronics,3,42255,2023-11-02,Chennai,Cash on Delivery,23
+ORD1364,CUST274,Keyboard,Electronics,1,46148,2023-12-31,Bangalore,Cash on Delivery,27
+ORD1365,CUST475,Monitor,Electronics,4,10016,2023-02-12,Hyderabad,Net Banking,14
+ORD1366,CUST419,Tablet,Accessories,1,2896,2023-02-03,Chennai,Debit Card,6
+ORD1367,CUST328,Headphones,Electronics,1,19629,2023-12-12,Mumbai,UPI,5
+ORD1368,CUST105,Laptop,Electronics,3,2091,2023-08-21,Mumbai,Debit Card,8
+ORD1369,CUST795,Headphones,Electronics,4,11803,2023-11-05,Mumbai,Net Banking,19
+ORD1370,CUST944,Monitor,Electronics,4,31061,2023-05-14,Mumbai,Cash on Delivery,27
+ORD1371,CUST541,Monitor,Electronics,1,72219,2023-09-24,Bangalore,Debit Card,0
+ORD1372,CUST375,Laptop,Accessories,2,7814,2023-03-13,Hyderabad,Cash on Delivery,7
+ORD1373,CUST542,Tablet,Electronics,3,20123,2023-08-19,Pune,Cash on Delivery,22
+ORD1374,CUST801,Mobile,Accessories,3,68175,2023-03-31,Delhi,Credit Card,22
+ORD1375,CUST586,Laptop,Accessories,3,65582,2023-05-20,Bangalore,Debit Card,2
+ORD1376,CUST507,Mobile,Electronics,3,33630,2023-10-07,Bangalore,Debit Card,3
+ORD1377,CUST222,Keyboard,Electronics,4,52256,2023-08-27,Pune,Cash on Delivery,25
+ORD1378,CUST842,Mobile,Electronics,4,26792,2023-07-22,Pune,Net Banking,24
+ORD1379,CUST705,Tablet,Electronics,2,69774,2023-05-19,Delhi,Credit Card,14
+ORD1380,CUST759,Keyboard,Accessories,3,2969,2023-10-22,Delhi,Cash on Delivery,5
+ORD1381,CUST673,Mobile,Electronics,3,54447,2023-12-25,Pune,UPI,14
+ORD1382,CUST780,Keyboard,Electronics,1,23034,2023-03-14,Mumbai,UPI,20
+ORD1383,CUST900,Mobile,Electronics,4,64120,2023-06-03,Bangalore,Credit Card,2
+ORD1384,CUST451,Tablet,Electronics,3,49374,2023-11-16,Chennai,Net Banking,24
+ORD1385,CUST748,Mobile,Electronics,2,50208,2023-10-17,Delhi,Cash on Delivery,20
+ORD1386,CUST780,Mobile,Electronics,2,75053,2023-12-20,Delhi,Debit Card,20
+ORD1387,CUST921,Mobile,Accessories,4,68844,2023-09-05,Pune,Credit Card,13
+ORD1388,CUST505,Laptop,Accessories,2,49638,2023-12-04,Hyderabad,Net Banking,19
+ORD1389,CUST705,Laptop,Electronics,2,54802,2023-02-21,Chennai,Debit Card,13
+ORD1390,CUST972,Laptop,Electronics,4,48138,2023-06-26,Chennai,UPI,3
+ORD1391,CUST199,Tablet,Electronics,3,78749,2023-06-04,Delhi,UPI,11
+ORD1392,CUST100,Keyboard,Accessories,3,3219,2023-12-30,Mumbai,Debit Card,16
+ORD1393,CUST852,Monitor,Electronics,2,23390,2023-07-27,Hyderabad,Credit Card,6
+ORD1394,CUST576,Mobile,Accessories,2,77736,2023-05-24,Chennai,UPI,8
+ORD1395,CUST931,Mobile,Electronics,3,37009,2023-01-24,Delhi,Cash on Delivery,2
+ORD1396,CUST823,Tablet,Electronics,4,43034,2023-04-27,Chennai,Debit Card,27
+ORD1397,CUST855,Mobile,Electronics,2,19287,2023-11-29,Hyderabad,Debit Card,12
+ORD1398,CUST560,Laptop,Electronics,1,49345,2023-09-01,Hyderabad,UPI,14
+ORD1399,CUST104,Monitor,Accessories,4,58432,2023-06-03,Bangalore,Credit Card,17
+ORD1400,CUST547,Headphones,Accessories,2,33562,2023-06-12,Pune,Cash on Delivery,18
+ORD1401,CUST591,Mobile,Electronics,2,76213,2023-01-14,Pune,Credit Card,0
+ORD1402,CUST490,Laptop,Electronics,1,60961,2023-05-15,Delhi,Net Banking,5
+ORD1403,CUST751,Headphones,Accessories,1,75918,2023-05-26,Hyderabad,Net Banking,26
+ORD1404,CUST765,Monitor,Accessories,3,67172,2023-08-04,Bangalore,UPI,26
+ORD1405,CUST901,Headphones,Accessories,4,35332,2023-08-13,Bangalore,UPI,22
+ORD1406,CUST566,Laptop,Accessories,4,32466,2023-04-09,Chennai,UPI,26
+ORD1407,CUST585,Keyboard,Electronics,3,73045,2023-11-03,Chennai,Net Banking,26
+ORD1408,CUST896,Keyboard,Accessories,4,13487,2023-11-28,Bangalore,Credit Card,1
+ORD1409,CUST189,Headphones,Electronics,4,37811,2023-01-06,Chennai,Credit Card,23
+ORD1410,CUST583,Tablet,Accessories,4,32075,2023-04-12,Hyderabad,UPI,13
+ORD1411,CUST117,Headphones,Accessories,4,64352,2023-02-07,Mumbai,Cash on Delivery,5
+ORD1412,CUST256,Mobile,Accessories,4,1507,2023-12-14,Hyderabad,Credit Card,13
+ORD1413,CUST324,Mobile,Accessories,1,71481,2023-07-23,Bangalore,Net Banking,3
+ORD1414,CUST146,Keyboard,Accessories,4,76742,2023-04-27,Bangalore,Debit Card,20
+ORD1415,CUST985,Tablet,Electronics,1,48017,2023-02-14,Hyderabad,Debit Card,7
+ORD1416,CUST286,Laptop,Electronics,4,29757,2023-05-03,Chennai,Debit Card,29
+ORD1417,CUST648,Mobile,Accessories,3,42707,2023-02-20,Chennai,Cash on Delivery,2
+ORD1418,CUST743,Keyboard,Accessories,2,13781,2023-11-08,Pune,UPI,18
+ORD1419,CUST101,Monitor,Electronics,1,61746,2023-09-26,Bangalore,Net Banking,29
+ORD1420,CUST119,Keyboard,Accessories,4,1935,2023-07-19,Delhi,Cash on Delivery,13
+ORD1421,CUST509,Mobile,Accessories,3,27160,2023-07-15,Pune,Net Banking,26
+ORD1422,CUST105,Mobile,Electronics,2,5584,2023-05-21,Chennai,Net Banking,19
+ORD1423,CUST232,Keyboard,Accessories,1,14007,2023-11-03,Hyderabad,UPI,16
+ORD1424,CUST606,Laptop,Accessories,2,73095,2023-07-07,Chennai,Debit Card,24
+ORD1425,CUST996,Headphones,Electronics,3,46039,2023-06-28,Hyderabad,UPI,7
+ORD1426,CUST428,Mobile,Electronics,1,7991,2023-08-21,Pune,Cash on Delivery,23
+ORD1427,CUST140,Keyboard,Electronics,2,50692,2023-06-23,Bangalore,Cash on Delivery,13
+ORD1428,CUST808,Keyboard,Accessories,4,64388,2023-12-05,Chennai,Cash on Delivery,25
+ORD1429,CUST998,Tablet,Electronics,1,74109,2023-03-24,Hyderabad,UPI,5
+ORD1430,CUST943,Headphones,Electronics,2,9577,2023-06-12,Bangalore,Net Banking,22
+ORD1431,CUST173,Monitor,Electronics,3,21453,2023-05-23,Delhi,Net Banking,21
+ORD1432,CUST592,Laptop,Electronics,3,77419,2023-12-10,Hyderabad,Credit Card,15
+ORD1433,CUST273,Monitor,Electronics,1,68389,2023-09-26,Pune,Cash on Delivery,24
+ORD1434,CUST293,Headphones,Electronics,2,24321,2023-04-29,Delhi,Net Banking,18
+ORD1435,CUST341,Headphones,Accessories,1,38067,2023-01-22,Delhi,Credit Card,13
+ORD1436,CUST321,Headphones,Accessories,1,25360,2023-05-02,Mumbai,Net Banking,18
+ORD1437,CUST176,Monitor,Electronics,2,21695,2023-05-08,Chennai,Cash on Delivery,2
+ORD1438,CUST959,Headphones,Electronics,2,77975,2023-01-31,Hyderabad,Debit Card,9
+ORD1439,CUST378,Keyboard,Electronics,4,21927,2023-06-19,Delhi,Cash on Delivery,18
+ORD1440,CUST270,Monitor,Accessories,2,27583,2023-03-08,Mumbai,UPI,8
+ORD1441,CUST956,Headphones,Accessories,3,57872,2023-06-16,Pune,Net Banking,27
+ORD1442,CUST719,Keyboard,Accessories,1,44564,2023-06-25,Bangalore,Net Banking,19
+ORD1443,CUST485,Tablet,Accessories,1,8313,2023-02-13,Hyderabad,UPI,12
+ORD1444,CUST531,Headphones,Accessories,3,32098,2023-04-23,Delhi,UPI,6
+ORD1445,CUST131,Monitor,Accessories,2,27582,2023-11-17,Chennai,Debit Card,13
+ORD1446,CUST147,Mobile,Accessories,3,29741,2023-10-22,Mumbai,Net Banking,8
+ORD1447,CUST844,Headphones,Accessories,3,45069,2023-02-06,Delhi,Net Banking,26
+ORD1448,CUST258,Mobile,Accessories,4,12245,2023-12-17,Chennai,Debit Card,27
+ORD1449,CUST472,Keyboard,Electronics,3,26529,2023-07-11,Delhi,Credit Card,22
+ORD1450,CUST308,Tablet,Electronics,1,13525,2023-12-09,Hyderabad,Debit Card,24
+ORD1451,CUST555,Laptop,Electronics,3,14788,2023-08-10,Hyderabad,Cash on Delivery,27
+ORD1452,CUST624,Tablet,Electronics,1,7040,2023-09-12,Hyderabad,Net Banking,18
+ORD1453,CUST738,Headphones,Accessories,1,69378,2023-12-07,Pune,UPI,14
+ORD1454,CUST611,Mobile,Accessories,1,42346,2023-11-23,Pune,Cash on Delivery,19
+ORD1455,CUST180,Mobile,Electronics,2,76432,2023-12-21,Mumbai,Net Banking,13
+ORD1456,CUST103,Monitor,Accessories,4,17982,2023-03-03,Hyderabad,Debit Card,23
+ORD1457,CUST701,Mobile,Electronics,1,23911,2023-06-16,Chennai,Cash on Delivery,5
+ORD1458,CUST776,Monitor,Accessories,1,51475,2023-05-04,Delhi,Net Banking,20
+ORD1459,CUST781,Keyboard,Electronics,2,61045,2023-07-02,Bangalore,Credit Card,28
+ORD1460,CUST174,Laptop,Accessories,1,79297,2023-01-17,Chennai,Credit Card,3
+ORD1461,CUST361,Headphones,Accessories,3,52807,2023-02-09,Pune,UPI,7
+ORD1462,CUST533,Monitor,Electronics,3,3593,2023-08-06,Pune,Net Banking,16
+ORD1463,CUST705,Laptop,Accessories,4,77758,2023-02-03,Chennai,Credit Card,29
+ORD1464,CUST786,Mobile,Electronics,1,22542,2023-06-18,Pune,Debit Card,8
+ORD1465,CUST289,Mobile,Electronics,2,53430,2023-04-24,Hyderabad,Net Banking,0
+ORD1466,CUST320,Laptop,Electronics,3,44913,2023-03-20,Mumbai,Debit Card,23
+ORD1467,CUST202,Mobile,Electronics,2,34256,2023-01-19,Delhi,Debit Card,19
+ORD1468,CUST656,Keyboard,Accessories,2,53768,2023-11-21,Mumbai,Credit Card,24
+ORD1469,CUST240,Keyboard,Accessories,3,39714,2023-06-12,Delhi,Net Banking,13
+ORD1470,CUST268,Laptop,Accessories,2,29102,2023-04-25,Delhi,Cash on Delivery,10
+ORD1471,CUST508,Monitor,Electronics,3,53831,2023-08-04,Mumbai,Credit Card,20
+ORD1472,CUST736,Monitor,Accessories,2,49401,2023-09-25,Chennai,Credit Card,2
+ORD1473,CUST846,Laptop,Electronics,3,63916,2023-08-15,Delhi,Net Banking,8
+ORD1474,CUST755,Monitor,Accessories,1,32696,2023-06-27,Mumbai,Net Banking,26
+ORD1475,CUST762,Monitor,Accessories,4,6126,2023-08-03,Delhi,Debit Card,13
+ORD1476,CUST118,Keyboard,Accessories,3,7924,2023-01-31,Bangalore,Net Banking,29
+ORD1477,CUST935,Monitor,Electronics,3,13357,2023-03-27,Chennai,Debit Card,8
+ORD1478,CUST273,Tablet,Accessories,4,20482,2023-10-28,Hyderabad,Credit Card,3
+ORD1479,CUST151,Headphones,Accessories,3,77461,2023-01-22,Delhi,UPI,26
+ORD1480,CUST640,Mobile,Electronics,3,2480,2023-08-25,Bangalore,Cash on Delivery,3
+ORD1481,CUST113,Tablet,Accessories,2,48790,2023-06-28,Hyderabad,Credit Card,27
+ORD1482,CUST268,Monitor,Electronics,4,26931,2023-12-30,Hyderabad,Net Banking,7
+ORD1483,CUST735,Keyboard,Accessories,1,26885,2023-01-11,Delhi,Cash on Delivery,1
+ORD1484,CUST283,Laptop,Electronics,3,38658,2023-06-15,Mumbai,UPI,8
+ORD1485,CUST150,Monitor,Electronics,4,23519,2023-07-25,Delhi,UPI,28
+ORD1486,CUST170,Keyboard,Accessories,2,19139,2023-09-13,Bangalore,Debit Card,13
+ORD1487,CUST916,Headphones,Electronics,1,22063,2023-06-26,Hyderabad,Cash on Delivery,21
+ORD1488,CUST638,Monitor,Electronics,4,39841,2023-04-12,Delhi,Debit Card,8
+ORD1489,CUST349,Laptop,Electronics,1,6276,2023-04-29,Mumbai,Credit Card,23
+ORD1490,CUST148,Keyboard,Electronics,1,36944,2023-01-22,Delhi,Cash on Delivery,22
+ORD1491,CUST801,Keyboard,Electronics,1,69416,2023-04-06,Chennai,Credit Card,15
+ORD1492,CUST759,Keyboard,Electronics,3,9211,2023-04-12,Mumbai,Debit Card,28
+ORD1493,CUST608,Headphones,Accessories,3,74818,2023-04-07,Bangalore,Cash on Delivery,29
+ORD1494,CUST892,Monitor,Electronics,2,31207,2023-05-03,Hyderabad,Debit Card,16
+ORD1495,CUST525,Headphones,Electronics,2,39610,2023-03-16,Delhi,Cash on Delivery,15
+ORD1496,CUST274,Mobile,Accessories,4,62288,2023-10-17,Mumbai,Debit Card,29
+ORD1497,CUST496,Mobile,Accessories,2,39327,2023-02-16,Chennai,UPI,11
+ORD1498,CUST564,Monitor,Accessories,1,6155,2023-02-10,Mumbai,Debit Card,2
+ORD1499,CUST760,Headphones,Accessories,1,45359,2023-08-24,Pune,UPI,10
