@@ -1,0 +1,16 @@
+column,type,description
+customer_age,numeric,Customer age
+annual_income,numeric,Annual income
+tenure_months,numeric,Customer tenure in months
+monthly_bill,numeric,Monthly billing amount
+support_calls,numeric,Number of support calls
+complaints,numeric,Number of complaints
+data_usage_gb,numeric,Monthly data usage in GB
+late_payments,numeric,Number of late payments
+satisfaction_score,numeric,Customer satisfaction score
+discount_percent,numeric,Discount percentage
+contract_type,categorical,Contract type
+internet_service,categorical,Internet service type
+payment_method,categorical,Payment method
+region,categorical,Customer region
+churn,target,"Target: 1 = churn, 0 = retained"
